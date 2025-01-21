@@ -1,4 +1,4 @@
 Olá! Esse projeto ensina você a usar o Git.
 Isso é uma alteração.
 Testando.
-perai
+Mais um teste para verificação de repositório local.
